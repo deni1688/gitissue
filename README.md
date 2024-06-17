@@ -52,7 +52,7 @@ This will create the config json with the following options:
 {
     "host": "String<GITHUB|GITLAB>",
     "token": "String<YOUR_AUTH_TOKEN>",
-    "prfix": "String<PREFIX e.g. // TODO>",
+    "prefix": "String<PREFIX e.g. // TODO>",
     "query": "String<QUERY_FOR_YOUR_REPOS>",
     "webhooks": "List<YOUR_WEBHOOKS_URLS>",
     "exclude": "List<DIRS_FILE_TO_EXCLUDE>"
